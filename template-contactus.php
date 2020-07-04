@@ -1,3 +1,10 @@
+<?php 
+
+/*
+Template Name: Contact US
+*/
+?>
+
 <?php get_header();?>
 <section class="page-wrap">
 <div class="container">
